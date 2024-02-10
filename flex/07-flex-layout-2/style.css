@@ -27,8 +27,7 @@ body {
   align-items: center;
 }
 
-.sidebar,
-ul {
+.sidebar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
